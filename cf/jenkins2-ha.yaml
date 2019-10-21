@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'Jenkins 2: highly available Jenkins master, a cloudonaut.io template'
+Description: 'Jenkins 2: highly available Jenkins master'
 Metadata:
   'AWS::CloudFormation::Interface':
     ParameterGroups:
